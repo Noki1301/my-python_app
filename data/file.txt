@@ -1,0 +1,7 @@
+talaba1 = {
+   ism = "Nodir",
+   familiya = "Xatamov",
+   yosh = 30,
+   o\'qish_joyi = "KFU Djizzakh",
+   kurs = 3
+}

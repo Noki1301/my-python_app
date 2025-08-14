@@ -108,5 +108,5 @@ while True:
         print(f"Kechirasiz, {mahsulot} mahsuloti mavjud emas.")
 print("Savatchangiz:")
 for mahsulot, miqdor in savatcha.items():
-    narx = e_bozor[mahsulot] * miqdor
+    narx = e_bozor[mahsulot] * miqdor 
     print(f"{mahsulot}: {miqdor} kg - {narx} so'm")
